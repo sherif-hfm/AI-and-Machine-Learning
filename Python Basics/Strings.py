@@ -7,3 +7,4 @@ hi
 my name is sherif
 '''
 print("Message:", message)
+print("sherif "*2) # prints "sherif sherif "
